@@ -7,7 +7,7 @@
     - `npx -v`
 
 ## Create React App
-- `npx create-next-app@latest`
+- **Command:** `npx create-next-app@latest`
 - **YES:** App Router, EsLint, src/ directory, Tailwind CSS, TypeScript
 - **NO:** customize the default import alias (@/*)
 
