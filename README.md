@@ -26,5 +26,11 @@
     - tailwindcss
     - typescript
 
+## Additional Installations
+- **Husky and lint-staged:** `npm install husky lint-staged --save-dev`
+- **Jest and React Testing Library:** `npm install jest @testing-library/react @testing-library/jest-dom --save-dev`
+    - Ensure it's installed: npm install --save-dev jest
+    - For testing setup
+
 ## Run Server
 - **Command:** `npm run dev` -> [localhost:3000](http://localhost:3000/)
